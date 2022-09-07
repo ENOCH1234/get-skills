@@ -41,11 +41,11 @@
                         <h1>Contact Us</h1>
                         <ul class="list-inline mb-0">
                             <li class="list-inline-item">
-                                <a href="#">Home</a>
+                                <a href="./">Home</a>
                             </li>
                             <li class="list-inline-item">/</li>
                             <li class="list-inline-item">
-                                Contact
+                                Contact Us
                             </li>
                         </ul>
                     </div>
@@ -55,7 +55,7 @@
     </section>
 
     <!-- Map section start -->
-    <section class="map">
+    <!-- <section class="map">
         <div class="container">
             <div class="row">
                 <div class="col-xl-12">
@@ -63,7 +63,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
     <!-- Map section End -->
 
     <!-- Contact section start -->

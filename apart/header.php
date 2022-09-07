@@ -16,7 +16,14 @@
                 <!-- Collapse -->
                 <div class="collapse navbar-collapse" id="navbarMenu">
                     <ul class="navbar-nav mx-auto">
-                        <li class="nav-item dropdown">
+
+                        <li class="nav-item">
+                            <a href="./" class="nav-link">
+                                Home
+                            </a>
+                        </li>
+
+                        <!-- <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="#" id="navbar3" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                                 Home<i class="fa fa-angle-down"></i>
                             </a>
@@ -34,14 +41,21 @@
                                     Home 4
                                 </a>
                             </div>
-                        </li>
+                        </li> -->
+
                         <li class="nav-item ">
-                            <a href="about.html" class="nav-link js-scroll-trigger">
+                            <a href="about" class="nav-link js-scroll-trigger">
                                 About us
                             </a>
                         </li>
 
-                        <li class="nav-item dropdown">
+                        <li class="nav-item">
+                            <a href="courses" class="nav-link">
+                                Available Courses
+                            </a>
+                        </li>
+
+                        <!-- <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="#" id="navbar3" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                                 Courses<i class="fa fa-angle-down"></i>
                             </a>
@@ -66,8 +80,9 @@
                                     Course Details Style 2
                                 </a>
                             </div>
-                        </li>
-                        <li class="nav-item dropdown">
+                        </li> -->
+
+                        <!-- <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="#" id="navbar3" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                                 Pages<i class="fa fa-angle-down"></i>
                             </a>
@@ -88,8 +103,9 @@
                                     404
                                 </a>
                             </div>
-                        </li>
-                        <li class="nav-item dropdown">
+                        </li> -->
+
+                        <!-- <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="#" id="navbar3" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                                 Blog<i class="fa fa-angle-down"></i>
                             </a>
@@ -101,18 +117,18 @@
                                     Blog Single
                                 </a>
                             </div>
-                        </li>
+                        </li> -->
 
-                        <li class="nav-item ">
-                            <a href="contact.html" class="nav-link">
-                                Contact
+                        <li class="nav-item">
+                            <a href="contact" class="nav-link">
+                                Contact Us
                             </a>
                         </li>
                     </ul>
 
                     <div class="header-login">
-                        <a href="#" class="btn btn-solid-border btn-sm ">Log In</a>
-                        <a href="#" class="btn btn-main btn-sm">sign up</a>
+                        <!-- <a href="#" class="btn btn-solid-border btn-sm ">Log In</a> -->
+                        <a href="courses" class="btn btn-main btn-sm">Browser Courses</a>
                     </div>
                 </div>
                 <!-- / .navbar-collapse -->
