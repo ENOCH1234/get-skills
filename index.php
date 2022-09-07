@@ -32,28 +32,10 @@
 
 
     <header>
-        <div class="header-top ">
-            <div class="container-fluid container-padding">
-                <div class="row align-items-center">
-                    <div class="col-lg-6 col-md-6">
-                        <p>Are you interested in Joining program? <a href="#">Contact me.</a></p>
-                    </div>
-                    <div class="col-lg-6 col-md-6">
-                        <div class="header-right float-lg-right">
-                            <a href="#">Join Now</a>
-                            <a href="#">Courses</a>
-                            <a href="#">Membership Login</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-
         <!-- Main Menu Start -->
-
-        <div class="site-navigation main_menu menu-transparent" id="mainmenu-area">
+        <div class="site-navigation main_menu menu-style-2" id="mainmenu-area">
             <nav class="navbar navbar-expand-lg">
-                <div class="container-fluid container-padding">
+                <div class="container">
                     <a class="navbar-brand" href="index.html">
                         <img src="assets/images/dark-logo.png" alt="Eduhash" class="img-fluid">
                     </a>
@@ -66,7 +48,6 @@
 
                     <!-- Collapse -->
                     <div class="collapse navbar-collapse" id="navbarMenu">
-
                         <ul class="navbar-nav mx-auto">
                             <li class="nav-item dropdown">
                                 <a class="nav-link dropdown-toggle" href="#" id="navbar3" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
@@ -162,20 +143,10 @@
                             </li>
                         </ul>
 
-                        <div class="d-flex align-items-center">
-                            <div class="header-socials social-links d-none d-lg-none d-xl-block">
-                                <a href="#"><i class="fab fa-facebook-f"></i></a>
-                                <a href="#"><i class="fab fa-twitter"></i></a>
-                                <a href="#"><i class="fab fa-linkedin"></i></a>
-                                <a href="#"><i class="fab fa-pinterest"></i></a>
-                            </div>
-
-                            <form action="#" class="header-form ml-3">
-                                <input type="text" class="form-control" placeholder="search">
-                                <i class="fa fa-search"></i>
-                            </form>
+                        <div class="header-login">
+                            <a href="#" class="btn btn-solid-border btn-sm ">Log In</a>
+                            <a href="#" class="btn btn-main btn-sm">sign up</a>
                         </div>
-
                     </div>
                     <!-- / .navbar-collapse -->
                 </div>
@@ -188,16 +159,21 @@
 
 
     <!-- Banner Section Start -->
-    <section class="banner">
+    <section class="banner-2 section-padding">
         <div class="container">
-            <div class="row justify-content-center">
-                <div class="col-md-12 col-xl-7">
-                    <div class="banner-content text-center">
+            <div class="row align-items-center">
+                <div class="col-md-12 col-xl-6 col-lg-6">
+                    <div class="banner-content">
                         <span class="subheading">Expert instruction</span>
-                        <h1><span class="font-weight-normal">It's time to amplify</span> your online business</h1>
-                        <p>Eduhash is a HTML5 template based on Sass and Bootstrap 4 with modern and creative multipurpose design you can use it as a startups.</p>
-                        <a href="#" class="btn btn-main mr-2">our Courses </a>
-                        <a href="#" class="btn btn-tp">Sign up </a>
+                        <h1>Convenient easy way of learning new skills!</h1>
+                        <p>The ultimate planning solution for busy women who want to reach their personal goals.Effortless comfortable eye-catching unique detail </p>
+                        <a href="#" class="btn btn-main">our Courses </a>
+                    </div>
+                </div>
+
+                <div class="col-md-12 col-xl-6 col-lg-6">
+                    <div class="banner-img-round mt-5 mt-lg-0">
+                        <img src="assets/images/banner/hero-img.png" alt="" class="img-fluid">
                     </div>
                 </div>
             </div>
@@ -205,23 +181,13 @@
         </div>
         <!-- / .container -->
     </section>
-    <!-- Banner Section end -->
+    <!-- Banner Section End -->
 
     <!-- Feature section start -->
-    <section class="feature section-padding pb-0">
+    <section class="feature-4">
         <div class="container">
-            <div class="row align-items-center justify-content-center">
-                <div class="col-lg-7">
-                    <div class="section-heading center-heading">
-                        <span class="subheading">Maximize your potentials</span>
-                        <h3>Learn the secrets to Life Success</h3>
-                        <p>The ultimate planning solution for busy women who want to reach their personal goals</p>
-                    </div>
-                </div>
-            </div>
-
             <div class="row ">
-                <div class="col-lg-3 col-md-6 col-xl-3">
+                <div class="col-lg-4 col-md-6 col-xl-4 col-sm-6">
                     <div class="feature-item">
                         <div class="feature-icon">
                             <i class="flaticon-flag"></i>
@@ -232,7 +198,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6 col-xl-3">
+                <div class="col-lg-4 col-md-6 col-xl-4 col-sm-6">
                     <div class="feature-item">
                         <div class="feature-icon">
                             <i class="flaticon-layers"></i>
@@ -243,7 +209,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6 col-xl-3">
+                <div class="col-lg-4 col-md-6 col-xl-4 col-sm-6">
                     <div class="feature-item">
                         <div class="feature-icon">
                             <i class="flaticon-video-camera"></i>
@@ -254,123 +220,115 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6 col-xl-3">
-                    <div class="feature-item">
-                        <div class="feature-icon">
-                            <i class="flaticon-help"></i>
-                        </div>
-                        <div class="feature-text">
-                            <h4>Life Time Support</h4>
-                            <p>Develop skills for career of various majors including language </p>
-                        </div>
-                    </div>
-                </div>
             </div>
         </div>
     </section>
     <!-- Feature section End -->
-    <!-- About Section Start -->
-    <section class="about-section section-padding">
-        <div class="container">
-            <div class="row align-items-center">
-                <div class="col-xl-6 col-lg-6">
-                    <div class="video-block">
-                        <img src="assets/images/bg/about.jpg" alt="" class="img-fluid">
-                        <a href="#" class="video-icon"><i class="fa fa-play"></i></a>
-                    </div>
-                </div>
-
-                <div class="col-xl-6 pl-5 col-lg-6">
-                    <div class="section-heading mt-4 mt-lg-0 ">
-                        <span class="subheading">Self Development Course</span>
-                        <h3>Get Instant Access To <span> Expert solution</span></h3>
-                        <p>The ultimate planning solution for busy women who want to reach their personal goals.Effortless comfortable eye-catching unique detail </p>
-
-                    </div>
-                    <ul class="about-features">
-                        <li>
-                            <i class="fa fa-check"></i>
-                            <h5>High Quality Video Details</h5>
-                        </li>
-                        <li>
-                            <i class="fa fa-check"></i>
-                            <h5>Powerful Audiance</h5>
-                        </li>
-                        <li>
-                            <i class="fa fa-check"></i>
-                            <h5>Premium Content Worldwide</h5>
-                        </li>
-                    </ul>
-
-                    <a href="#" class="btn btn-main">Our Courses</a>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- About Section END -->
-    <section class="section-padding popular-course bg-grey">
+    <section class="section-padding popular-course-list">
         <div class="container">
             <div class="row align-items-center justify-content-center">
-                <div class="col-lg-7">
-                    <div class="section-heading center-heading">
+                <div class="col-lg-8 col-xl-8 col-md-8">
+                    <div class="section-heading mb-sm-0">
                         <span class="subheading">Trending Courses</span>
                         <h3>Popular Online Courses Around You</h3>
                         <p>The ultimate planning solution for busy women who want to reach their personal goals</p>
                     </div>
                 </div>
+                <div class="col-xl-4 col-lg-4  col-md-4">
+                    <div class="text-md-right mb-5 mb-md-0">
+                        <a href="#" class="btn btn-main">All courses</a>
+                    </div>
+                </div>
             </div>
 
             <div class="row">
-                <div class="col-lg-4 col-md-6">
-                    <div class="course-block">
-                        <div class="course-img">
-                            <img src="assets/images/course/course-1.jpg" alt="" class="img-fluid">
-                            <div class="course-price ">$120 </div>
-                        </div>
-
-                        <div class="course-content">
-                            <span class="course-cat">Graphic design</span>
-                            <h4><a href="#">Information About UI/UX Design Degree</a></h4>
-                            <div class="course-meta">
-                                <span class="course-student"><i class="fa fa-user-alt"></i>340 Students</span>
-                                <span class="course-duration"><i class="far fa-file-alt"></i>82 Lessons</span>
+                <div class="col-lg-6 col-md-12">
+                    <div class="course-block course-list-item">
+                        <div class="row align-items-center">
+                            <div class="col-lg-4 col-sm-4 ">
+                                <div class="course-img mb-4 mb-md-0">
+                                    <img src="assets/images/course/course-sm1.jpg" alt="" class="img-fluid">
+                                </div>
+                            </div>
+                            <div class="col-lg-8  col-sm-8">
+                                <div class="course-content">
+                                    <div class="course-price ">$50 <del>$90</del></div>
+                                    <h4><a href="#">Information About UI/UX Design Degree</a></h4>
+                                    <div class="course-meta">
+                                        <span class="course-author">By <a href="#">William</a></span>
+                                        <span class="course-duration"><i class="far fa-file-alt"></i>82 Lessons</span>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
                 </div>
 
-                <div class="col-lg-4 col-md-6">
-                    <div class="course-block">
-                        <div class="course-img">
-                            <img src="assets/images/course/course-3.jpg" alt="" class="img-fluid">
-                            <div class="course-price ">$100 </div>
-                        </div>
+                <div class="col-lg-6 col-md-12">
+                    <div class="course-block course-list-item">
+                        <div class="row align-items-center">
+                            <div class="col-lg-4 col-sm-4">
+                                <div class="course-img mb-4 mb-md-0">
+                                    <img src="assets/images/course/course-sm2.jpg" alt="" class="img-fluid">
+                                </div>
+                            </div>
+                            <div class="col-lg-8  col-sm-8">
+                                <div class="course-content">
+                                    <div class="course-price ">$80 <del>$100</del></div>
 
-                        <div class="course-content">
-                            <span class="course-cat">Web design</span>
-                            <h4><a href="#">React – The Complete Guide (React Router)</a></h4>
-                            <div class="course-meta">
-                                <span class="course-student"><i class="fa fa-user-alt"></i>340 Students</span>
-                                <span class="course-duration"><i class="far fa-file-alt"></i>82 Lessons</span>
+                                    <h4><a href="#">Photography Crash Course for Photographer</a></h4>
+                                    <div class="course-meta">
+                                        <span class="course-author">By <a href="#">William</a></span>
+                                        <span class="course-duration"><i class="far fa-file-alt"></i>82 Lessons</span>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
                 </div>
 
-                <div class="col-lg-4 col-md-6">
-                    <div class="course-block">
-                        <div class="course-img">
-                            <img src="assets/images/course/course-2.jpg" alt="" class="img-fluid">
-                            <div class="course-price ">$100 </div>
+                <div class="col-lg-6 col-md-12">
+                    <div class="course-block course-list-item">
+                        <div class="row align-items-center">
+                            <div class="col-lg-4  col-sm-4">
+                                <div class="course-img mb-4 mb-md-0">
+                                    <img src="assets/images/course/course-sm3.jpg" alt="" class="img-fluid">
+                                </div>
+                            </div>
+                            <div class="col-lg-8  col-sm-8">
+                                <div class="course-content">
+                                    <div class="course-price ">$100 <del>$120</del></div>
+
+                                    <h4><a href="#">React – The Complete Guide (React Router)</a></h4>
+                                    <div class="course-meta">
+                                        <span class="course-author">By <a href="#">William</a></span>
+                                        <span class="course-duration"><i class="far fa-file-alt"></i>82 Lessons</span>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
+                    </div>
+                </div>
 
-                        <div class="course-content">
-                            <span class="course-cat">photography</span>
-                            <h4><a href="#">Photography Crash Course for Photographer</a></h4>
 
-                            <div class="course-meta">
-                                <span class="course-student"><i class="fa fa-user-alt"></i>340 Students</span>
-                                <span class="course-duration"><i class="far fa-file-alt"></i>82 Lessons</span>
+                <div class="col-lg-6 col-md-12">
+                    <div class="course-block course-list-item">
+                        <div class="row align-items-center">
+                            <div class="col-lg-4  col-sm-4">
+                                <div class="course-img mb-4 mb-md-0">
+                                    <img src="assets/images/course/course-sm4.jpg" alt="" class="img-fluid">
+                                </div>
+                            </div>
+                            <div class="col-lg-8  col-sm-8">
+                                <div class="course-content">
+                                    <div class="course-price ">$180 <del>$190</del></div>
+
+                                    <h4><a href="#">WebCrash Course for Photographer</a></h4>
+                                    <div class="course-meta">
+                                        <span class="course-author">By <a href="#">William</a></span>
+                                        <span class="course-duration"><i class="far fa-file-alt"></i>82 Lessons</span>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -386,140 +344,282 @@
             </div>
         </div>
     </section>
-    <!-- COunter Section start -->
-    <section class="counter-section section-padding">
-        <div class="container">
-            <div class="row">
-                <div class="col-xl-10">
-                    <div class="section-heading">
-                        <span class="subheading">Maximize your potentials</span>
-                        <h3>We break down barriers so teams can focus on what matters – learning together to create online career you love.</h3>
-                    </div>
-                </div>
-            </div>
-
-            <div class="row">
-                <div class="col-lg-3 col-md-6">
-                    <div class="counter-item">
-                        <h6>Instructors</h6>
-                        <div class="count">
-                            <span class="counter">90</span>
-                        </div>
-                        <p>Tempus imperdiet nulla malpellen tesque Malesuada libero</p>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6">
-                    <div class="counter-item">
-                        <h6>Total Courses</h6>
-                        <div class="count">
-                            <span class="counter">1450</span>
-                        </div>
-                        <p>Tempus imperdiet nulla malpellen tesque Malesuada libero</p>
-                    </div>
-                </div>
-
-                <div class="col-lg-3 col-md-6">
-                    <div class="counter-item">
-                        <h6>Registered Enrolls</h6>
-                        <div class="count">
-                            <span class="counter">5697</span>
-                        </div>
-                        <p>Tempus imperdiet nulla malpellen tesque Malesuada libero</p>
-                    </div>
-                </div>
-
-                <div class="col-lg-3 col-md-6">
-                    <div class="counter-item">
-                        <h6>Satisfaction rate</h6>
-                        <div class="count">
-                            <span class="counter">100</span>%
-                        </div>
-                        <p>Tempus imperdiet nulla malpellen tesque Malesuada libero</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- COunter Section END -->
-
-    <div class="container">
-        <div class="row">
-            <div class="col-xl-12">
-                <hr>
-            </div>
-        </div>
-    </div>
-
-
-
     <!-- About Section Start -->
-    <section class="about-section section-padding">
+    <section class="about-section">
         <div class="container">
             <div class="row align-items-center justify-content-center">
-                <div class="col-xl-6 col-lg-6">
-                    <div class="section-heading ">
-                        <span class="subheading">Self Development Course</span>
-                        <h3>Get Instant Access To <span> Expert solution</span></h3>
-                        <p>The ultimate planning solution for busy women who want to reach their personal goals.Effortless comfortable eye-catching unique detail </p>
-                    </div>
+                <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12">
+                    <div class="row ">
+                        <div class="col-xl-6 col-lg-6  col-md-6 col-sm-6">
+                            <div class="about-imgbox">
+                                <img src="assets/images/bg/feature1.png" alt="" class="img-fluid">
+                            </div>
+                            <div class="about-imgbox">
+                                <img src="assets/images/bg/feature2.png" alt="" class="img-fluid">
+                            </div>
+                        </div>
 
-                    <div class="about-text-block">
-                        <div class="icon-box">
-                            <i class="flaticon-video-camera"></i>
-                        </div>
-                        <div class="about-desc">
-                            <h4>Sign up in website</h4>
-                            <p>The right mentoring relationship can be a powerful tool for professional growth. Bark up the right tree.</p>
-                        </div>
-                    </div>
-
-                    <div class="about-text-block">
-                        <div class="icon-box">
-                            <i class="flaticon-flag"></i>
-                        </div>
-                        <div class="about-desc">
-                            <h4>Enroll your course</h4>
-                            <p>The right mentoring relationship can be a powerful tool for professional growth. Bark up the right tree.</p>
-                        </div>
-                    </div>
-                    <div class="about-text-block">
-                        <div class="icon-box border-none">
-                            <i class="flaticon-video-camera"></i>
-                        </div>
-                        <div class="about-desc">
-                            <h4>Start from now</h4>
-                            <p>The right mentoring relationship can be a powerful tool for professional growth. Bark up the right tree.</p>
+                        <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6">
+                            <div class="about-imgbox mt-5">
+                                <img src="assets/images/bg/feature3.png" alt="" class="img-fluid">
+                            </div>
+                            <div class="about-imgbox">
+                                <img src="assets/images/bg/about-img.jpg" alt="" class="img-fluid">
+                            </div>
                         </div>
                     </div>
                 </div>
 
                 <div class="col-xl-6 col-lg-6">
-                    <div class="about-img">
-                        <img src="assets/images/bg/about-image.jpg" alt="" class="img-fluid">
+                    <div class="section-heading pl-lg-5 ">
+                        <span class="subheading">Self Development Course</span>
+                        <h3>Get Instant Access To <span> Expert solution</span></h3>
+                        <p class="mb-4">The ultimate planning solution for busy women who want to reach their personal goals.Effortless comfortable eye-catching unique detail.Take the control of their life back and start doing things </p>
+                        <a href="#" class="btn btn-solid-border">Join Now</a>
                     </div>
                 </div>
             </div>
         </div>
     </section>
     <!-- About Section End -->
-    <!-- Testimonial section start -->
-    <section class="testimonial section-padding">
+
+    <!--course category section start-->
+    <section class="section-padding course-category">
         <div class="container">
             <div class="row align-items-center justify-content-center">
                 <div class="col-lg-7">
                     <div class="section-heading center-heading">
-                        <span class="subheading">Testimonials</span>
-                        <h3>Success Stories from person</h3>
+                        <span class="subheading">Top Categories</span>
+                        <h3>Explore by category</h3>
                         <p>The ultimate planning solution for busy women who want to reach their personal goals</p>
                     </div>
                 </div>
             </div>
-        </div>
 
-        <div class="container-fluid px-120">
-            <div class="row justify-content-center">
-                <div class="col-lg-12">
-                    <div class="testimonials-slides owl-carousel owl-theme">
+            <div class="row">
+                <div class="col-xl-3 col-lg-3 col-md-6">
+                    <div class="single-course-category cat-1">
+                        <h4><a href="#">Business </a> </h4>
+                        <p>21 courses</p>
+                    </div>
+                </div>
+                <div class="col-xl-3 col-lg-3 col-md-6">
+                    <div class="single-course-category cat-2">
+                        <h4><a href="#">Design</a></h4>
+                        <p>15 courses</p>
+                    </div>
+                </div>
+                <div class="col-xl-3 col-lg-3 col-md-6">
+                    <div class="single-course-category cat-3">
+                        <h4><a href="#">Web Development</a></h4>
+                        <p>12 courses</p>
+                    </div>
+                </div>
+                <div class="col-xl-3 col-lg-3 col-md-6">
+                    <div class="single-course-category cat-4">
+                        <h4><a href="#">Marketing</a></h4>
+                        <p>20 courses</p>
+                    </div>
+                </div>
+
+
+                <div class="col-xl-3 col-lg-3 col-md-6">
+                    <div class="single-course-category cat-2">
+                        <h4><a href="#">Management</a></h4>
+                        <p>15 courses</p>
+                    </div>
+                </div>
+                <div class="col-xl-3 col-lg-3 col-md-6">
+                    <div class="single-course-category cat-1">
+                        <h4><a href="#">App Development</a></h4>
+                        <p>21 courses</p>
+                    </div>
+                </div>
+
+                <div class="col-xl-3 col-lg-3 col-md-6">
+                    <div class="single-course-category cat-4">
+                        <h4><a href="#">SEO</a></h4>
+                        <p>20 courses</p>
+                    </div>
+                </div>
+                <div class="col-xl-3 col-lg-3 col-md-6">
+                    <div class="single-course-category cat-3">
+                        <h4><a href="#">Human Resource</a></h4>
+                        <p>12 courses</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-xl-12">
+                    <div class="text-center mt-5">
+                        <a href="#" class="btn btn-solid-border">Explore All</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--course section end-->
+
+    <!--course section start-->
+    <section class="section-padding course-grid bg-gray">
+        <div class="container">
+            <div class="row align-items-center justify-content-center">
+                <div class="col-lg-7">
+                    <div class="section-heading center-heading">
+                        <span class="subheading">Trending Courses</span>
+                        <h3>Over 200+ New Online Courses</h3>
+                        <p>The ultimate planning solution for busy women who want to reach their personal goals</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="text-center">
+                <ul class="course-filter">
+                    <li class="active"><a href="#" data-filter="*"> All</a></li>
+                    <li><a href="#" data-filter=".cat1">printing</a></li>
+                    <li><a href="#" data-filter=".cat2">Web</a></li>
+                    <li><a href="#" data-filter=".cat3">illustration</a></li>
+                    <li><a href="#" data-filter=".cat4">media</a></li>
+                    <li><a href="#" data-filter=".cat5">crafts</a></li>
+                </ul>
+            </div>
+
+            <div class="row course-gallery ">
+                <div class="course-item cat1 cat3 col-lg-4 col-md-6">
+                    <div class="course-block">
+                        <div class="course-img">
+                            <img src="assets/images/course/course-1.jpg" alt="" class="img-fluid">
+                            <div class="course-price2">$100</div>
+                        </div>
+
+                        <div class="course-content">
+                            <div class="course-meta">
+                                <span class="course-student"><i class="fa fa-user-alt"></i>340 Students</span>
+                                <span class="course-duration"><i class="far fa-file-alt"></i>82 Lessons</span>
+                                <span class="course-label">new</span>
+                            </div>
+
+                            <h4><a href="#">React – The Complete Guide (React Router)</a></h4>
+                            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quis, alias.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="course-item cat2 cat4 col-lg-4 col-md-6">
+                    <div class="course-block">
+                        <div class="course-img">
+                            <img src="assets/images/course/course-2.jpg" alt="" class="img-fluid">
+                            <div class="course-price2">$70</div>
+                        </div>
+
+                        <div class="course-content">
+                            <div class="course-meta">
+                                <span class="course-student"><i class="fa fa-user-alt"></i>340 Students</span>
+                                <span class="course-duration"><i class="far fa-file-alt"></i>82 Lessons</span>
+                            </div>
+
+                            <h4><a href="#">Photography Crash Course for Photographer</a></h4>
+                            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quis, alias.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="course-item cat5 cat2 col-lg-4 col-md-6">
+                    <div class="course-block">
+                        <div class="course-img">
+                            <img src="assets/images/course/course-3.jpg" alt="" class="img-fluid">
+                            <div class="course-price2">$160</div>
+                        </div>
+
+                        <div class="course-content">
+                            <div class="course-meta">
+                                <span class="course-student"><i class="fa fa-user-alt"></i>340 Students</span>
+                                <span class="course-duration"><i class="far fa-file-alt"></i>82 Lessons</span>
+                            </div>
+
+                            <h4><a href="#">Information About UI/UX Design Degree</a></h4>
+                            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quis, alias.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="course-item cat2 cat4 col-lg-4 col-md-6">
+                    <div class="course-block">
+                        <div class="course-img">
+                            <img src="assets/images/course/course-2.jpg" alt="" class="img-fluid">
+                            <div class="course-price2">$130</div>
+                        </div>
+
+                        <div class="course-content">
+                            <div class="course-meta">
+                                <span class="course-student"><i class="fa fa-user-alt"></i>340 Students</span>
+                                <span class="course-duration"><i class="far fa-file-alt"></i>82 Lessons</span>
+                            </div>
+
+                            <h4><a href="#">Photography Crash Course for Photographer</a></h4>
+                            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quis, alias.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="course-item cat1 cat3 col-lg-4 col-md-6">
+                    <div class="course-block">
+                        <div class="course-img">
+                            <img src="assets/images/course/course-1.jpg" alt="" class="img-fluid">
+                            <div class="course-price2">$200</div>
+                        </div>
+
+                        <div class="course-content">
+                            <div class="course-meta">
+                                <span class="course-student"><i class="fa fa-user-alt"></i>340 Students</span>
+                                <span class="course-duration"><i class="far fa-file-alt"></i>82 Lessons</span>
+                                <span class="course-label">new</span>
+                            </div>
+
+                            <h4><a href="#">React – The Complete Guide (React Router)</a></h4>
+                            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quis, alias.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="course-item cat5 cat2 col-lg-4 col-md-6">
+                    <div class="course-block">
+                        <div class="course-img">
+                            <img src="assets/images/course/course-3.jpg" alt="" class="img-fluid">
+                            <div class="course-price2">$210</div>
+                        </div>
+
+                        <div class="course-content">
+                            <div class="course-meta">
+                                <span class="course-student"><i class="fa fa-user-alt"></i>340 Students</span>
+                                <span class="course-duration"><i class="far fa-file-alt"></i>82 Lessons</span>
+                            </div>
+
+                            <h4><a href="#">Information About UI/UX Design Degree</a></h4>
+                            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quis, alias.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--course section end-->
+    <!-- Testimonial section start -->
+    <section class="testimonial-2 section-padding">
+        <div class="container">
+            <div class="row align-items-center justify-content-center">
+                <div class="col-lg-6 col-xl-5 mr-auto">
+                    <div class="section-heading">
+                        <span class="subheading">Testimonials</span>
+                        <h3>Success Stories from person</h3>
+                        <p>The ultimate planning solution for busy women who want to reach their personal goals.Effortless comfortable eye-catching unique detail.Take the control of their life back</p>
+                        <p>Help you to get the best course that fits you <a href="#" class="text-underline d-block">Free Consultation <i class="fa fa-angle-right ml-2"></i></a></p>
+                    </div>
+                </div>
+
+                <div class="col-lg-6 col-xl-6">
+                    <div class="testimonials-slides-2 owl-carousel owl-theme">
                         <div class="testimonial-item">
                             <i class="fa fa-quote-right"></i>
                             <div class="client-info">
@@ -588,6 +688,58 @@
         </div>
     </section>
     <!-- Testimonial section End -->
+    <!-- COunter Section start -->
+    <section class="counter-block">
+        <div class="container">
+            <div class="row">
+                <div class="col-xl-12 bg-black counter-inner">
+                    <div class="row">
+                        <div class="col-lg-3 col-md-6 col-sm-6">
+                            <div class="counter-item text-center">
+                                <i class="flaticon-video-camera"></i>
+                                <div class="count">
+                                    <span class="counter">90</span>
+                                </div>
+                                <h6>Instructors</h6>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6 col-sm-6">
+                            <div class="counter-item text-center">
+                                <i class="flaticon-layers"></i>
+                                <div class="count">
+                                    <span class="counter">1450</span>
+                                </div>
+                                <h6>Total Courses</h6>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-3 col-md-6 col-sm-6">
+                            <div class="counter-item text-center">
+                                <i class="flaticon-flag"></i>
+                                <div class="count">
+                                    <span class="counter">5697</span>
+                                </div>
+                                <h6>Registered Enrolls</h6>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-3 col-md-6 col-sm-6">
+                            <div class="counter-item text-center border-0">
+                                <i class="flaticon-help"></i>
+                                <div class="count">
+                                    <span class="counter">100</span>%
+                                </div>
+                                <h6>Satisfaction rate</h6>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- COunter Section End -->
+
+
     <!-- Blog Section Start -->
     <section class="blog-section section-padding">
         <div class="container">
@@ -651,35 +803,36 @@
         </div>
     </section>
     <!-- Blog Section End -->
-    <section class="subscribe section-padding pt-0">
+    <!-- CTA Sidebar start -->
+    <section class="cta bg-gray section-padding">
         <div class="container">
-            <div class="row align-items-center form-inner">
-                <div class="col-lg-6 col-xl-6">
-                    <div class="section-heading mb-0">
-                        <span class="subheading">Newsletter</span>
-                        <h3>Subscribe to get latest news</h3>
+            <div class="row align-items-center justify-content-center">
+                <div class="col-lg-7">
+                    <div class="section-heading center-heading mb-0">
+                        <span class="subheading">be a instructor</span>
+                        <h3>Want to Become an Instructor ?</h3>
+                        <p class="mb-4">Join millions of people from around the world learning together. Online learning is as easy and natural as chatting.</p>
+                        <a href="#" class="btn btn-main">Become Instructor</a>
                     </div>
-                </div>
-                <div class="col-lg-6 col-xl-6">
-                    <form action="#" class="subscribe-form">
-                        <input type="text" placeholder="Enter Your Email" class="form-control">
-                        <a href="#" class="btn btn-main">Subscribe</a>
-                    </form>
                 </div>
             </div>
         </div>
     </section>
+    <!-- CTA Sidebar end -->
     <!-- Footer section start -->
-    <section class="footer">
+    <section class="footer-2">
         <div class="container">
             <div class="row">
-                <div class="col-lg-4 mr-auto col-sm-6 col-md-6">
-                    <div class="widget footer-widget mb-5 mb-lg-0">
-                        <div class="footer-logo">
-                            <img src="assets/images/dark-logo.png" alt="EduHash" class="img-fluid">
-                        </div>
-                        <p class="mt-3">Veniam Sequi molestias aut necessitatibus optio magni at natus accusamus.Lorem ipsum dolor sit amet, consectetur adipisicin gelit, sed do eiusmod tempor incididunt .</p>
+                <div class="col-lg-3 col-sm-6 col-md-8 col-xl-3 col-sm-6">
+                    <div class="widget footer-about mb-5 mb-lg-0">
+                        <h5 class="widget-title text-gray">About us</h5>
+                        <ul class="list-unstyled footer-info">
+                            <li><span>Ph:</span>+(68) 345 5902</li>
+                            <li><span>Email:</span>info@yourdomain.com</li>
+                            <li><span>Location:</span> 123 Fifth Floor East 26th Street, New York, NY 10011</li>
+                        </ul>
                         <ul class="list-inline footer-socials">
+                            <li class="list-inline-item">Follow us :</li>
                             <li class="list-inline-item"><a href="#"><i class="fab fa-facebook-f"></i></a></li>
                             <li class="list-inline-item"> <a href="#"><i class="fab fa-twitter"></i></a></li>
                             <li class="list-inline-item"><a href="#"><i class="fab fa-linkedin"></i></a></li>
@@ -688,39 +841,43 @@
                     </div>
                 </div>
 
-                <div class="col-lg-2 col-sm-6 col-md-6 col-xl-2">
-                    <div class="footer-widget mb-5 mb-lg-0">
-                        <h5 class="widget-title">Explore</h5>
-                        <ul class="list-unstyled footer-links">
-                            <li><a href="#">About us</a></li>
-                            <li><a href="#">Contact us</a></li>
-                            <li><a href="#">Projects</a></li>
-                            <li><a href="#">Terms & Condition</a></li>
-                            <li><a href="#">Privacy policy</a></li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-lg-2 col-sm-6 col-md-6 col-xl-2">
-                    <div class="footer-widget mb-5 mb-lg-0">
-                        <h5 class="widget-title">Courses</h5>
-                        <ul class="list-unstyled footer-links">
-                            <li><a href="#">SEO Business</a></li>
-                            <li><a href="#">Digital Marketing</a></li>
-                            <li><a href="#">Graphic Design</a></li>
-                            <li><a href="#">Site Development</a></li>
-                            <li><a href="#">Social Marketing</a></li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-lg-2 col-sm-6 col-md-6 col-xl-2">
-                    <div class="footer-widget footer-links mb-5 mb-lg-0">
-                        <h5 class="widget-title">Address </h5>
 
-                        <ul class="list-unstyled">
-                            <li>+(68) 345 5902</li>
-                            <li>info@yourdomain.com</li>
-                            <li>123 Fifth Floor East 26th Street, New York, NY 10011</li>
-                        </ul>
+                <div class="col-xl-7 ml-auto col-lg-7 col-md-12 col-sm-12">
+                    <div class="row">
+                        <div class="col-lg-4 col-xl-4 col-sm-4 col-md-4 ">
+                            <div class="footer-widget mb-5 mb-lg-0">
+                                <h5 class="widget-title text-gray">Explore</h5>
+                                <ul class="list-unstyled footer-links">
+                                    <li><a href="#">About us</a></li>
+                                    <li><a href="#">Contact us</a></li>
+                                    <li><a href="#">Services</a></li>
+                                    <li><a href="#">Support</a></li>
+                                </ul>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4 col-xl-4 col-sm-4 col-md-4">
+                            <div class="footer-widget mb-5 mb-lg-0">
+                                <h5 class="widget-title text-gray">Courses</h5>
+                                <ul class="list-unstyled footer-links">
+                                    <li><a href="#">SEO Business</a></li>
+                                    <li><a href="#">Digital Marketing</a></li>
+                                    <li><a href="#">Graphic Design</a></li>
+                                    <li><a href="#">Social Marketing</a></li>
+                                </ul>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4 col-xl-4 col-sm-4 col-md-4">
+                            <div class="footer-widget mb-5 mb-lg-0">
+                                <h5 class="widget-title text-gray">Legal</h5>
+                                <ul class="list-unstyled footer-links">
+                                    <li><a href="#">Terms & Condition</a></li>
+                                    <li><a href="#">Privacy policy</a></li>
+                                    <li><a href="#">Return policy</a></li>
+                                </ul>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -729,30 +886,25 @@
         <div class="footer-btm">
             <div class="container">
                 <div class="row justify-content-center align-items-center">
-                    <div class="col-xl-6 col-lg-6">
-                        <div class="copyright text-lg-left text-center">
-                            <p>© Copyright EduHash Template All rights reserved.Crafted by <a href="https://themeturn.com">Dreambuzz</a> </p>
+                    <div class="col-xl-6 col-lg-4 col-md-12">
+                        <div class="footer-logo text-lg-left text-center mb-4 mb-lg-0">
+                            <img src="assets/images/light-logo.png" alt="EduHash" class="img-fluid">
                         </div>
                     </div>
-                    <div class="col-xl-6 col-lg-6">
-                        <ul class="list-inline footer-contact  text-lg-right text-center mt-4 mt-lg-0">
-                            <li class="list-inline-item"><a href="#">Home</a></li>
-                            <li class="list-inline-item"><a href="#">Courses</a></li>
-                            <li class="list-inline-item"><a href="#">Blog</a></li>
-                            <li class="list-inline-item"><a href="#">Support</a></li>
-                            <li class="list-inline-item"><a href="#">Contact</a></li>
-                        </ul>
+                    <div class="col-xl-6 col-lg-8 col-md-12">
+                        <div class="copyright text-lg-right text-center">
+                            <p>© Copyright EduHash Template All rights reserved.Crafted by <a href="https://themeturn.com">Dreambuzz</a> </p>
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
     </section>
     <!-- Footer section End -->
+
     <div class="fixed-btm-top">
         <a href="#top-header" class="js-scroll-trigger scroll-to-top"><i class="fa fa-angle-up"></i></a>
     </div>
-
-
 
 
 
