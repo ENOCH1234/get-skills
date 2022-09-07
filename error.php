@@ -9,6 +9,9 @@
 
     <title>Page Not Found - SmartSkilz</title>
 
+    <!-- Favicon -->
+    <link rel="shortcut icon" href="assets/images/smart-favicon.png" type="image/x-icon">
+
     <!-- Mobile Specific Meta-->
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- bootstrap.min css -->

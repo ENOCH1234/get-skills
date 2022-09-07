@@ -3,11 +3,14 @@
 
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <meta name="description" content="Get Access To Cheap Digital Skills">
-    <meta name="keywords" content="Eduhash,education,lms,seo,course,online,learning,caoch,training,tutor">
-    <meta name="author" content="themeturn.com">
+    <meta name="description" content="Gain Access To Cheap Digital Skills">
+    <meta name="keywords" content="SmartSkilz,education,affiliate,cheap courses,course,online,learning,caoch,training,tutor">
+    <meta name="author" content="theknopee.com">
 
     <title>Contact Us - SmartSkilz</title>
+
+    <!-- Favicon -->
+    <link rel="shortcut icon" href="assets/images/smart-favicon.png" type="image/x-icon">
 
     <!-- Mobile Specific Meta-->
     <meta name="viewport" content="width=device-width, initial-scale=1">

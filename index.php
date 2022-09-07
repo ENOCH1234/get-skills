@@ -3,9 +3,11 @@
 
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <meta name="description" content="Education LMS template by Dreambuzz">
-    <meta name="keywords" content="Eduhash,education,lms,seo,course,online,learning,caoch,training,tutor">
-    <meta name="author" content="themeturn.com">
+    <meta name="description" content="Gain Access To Cheap Digital Skills">
+    <meta name="keywords" content="SmartSkilz,education,affiliate,cheap courses,course,online,learning,caoch,training,tutor">
+    <meta name="author" content="theknopee.com">
+
+    <link rel="shortcut icon" href="assets/images/smart-favicon.png" type="image/x-icon">
 
     <title>SmartSkilz - Get Access To Cheap Digital Skills</title>
 

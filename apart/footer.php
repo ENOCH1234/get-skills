@@ -66,7 +66,7 @@
             <div class="row justify-content-center align-items-center">
                 <div class="col-xl-6 col-lg-4 col-md-12">
                     <div class="footer-logo text-lg-left text-center mb-4 mb-lg-0">
-                        <img src="assets/images/light-logo.png" alt="EduHash" class="img-fluid">
+                        <img src="assets/images/SmartSkilz Logo Whi.png" alt="EduHash" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-xl-6 col-lg-8 col-md-12">
