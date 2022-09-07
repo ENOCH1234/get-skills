@@ -3,11 +3,11 @@
 
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <meta name="description" content="Education LMS template by Dreambuzz">
-    <meta name="keywords" content="Eduhash,education,lms,seo,course,online,learning,caoch,training,tutor">
-    <meta name="author" content="themeturn.com">
+    <meta name="description" content="Gain Access To Cheap Digital Skills">
+    <meta name="keywords" content="SmartSkilz,education,affiliate,cheap courses,course,online,learning,caoch,training,tutor">
+    <meta name="author" content="theknopee.com">
 
-    <title>Eduhash - Education LMS template</title>
+    <title>About Us - SmartSkilz</title>
 
     <!-- Mobile Specific Meta-->
     <meta name="viewport" content="width=device-width, initial-scale=1">

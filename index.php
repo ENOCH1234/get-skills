@@ -7,7 +7,7 @@
     <meta name="keywords" content="Eduhash,education,lms,seo,course,online,learning,caoch,training,tutor">
     <meta name="author" content="themeturn.com">
 
-    <title>Eduhash - Education LMS template</title>
+    <title>SmartSkilz - Get Access To Cheap Digital Skills</title>
 
     <!-- Mobile Specific Meta-->
     <meta name="viewport" content="width=device-width, initial-scale=1">
