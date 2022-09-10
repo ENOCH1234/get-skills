@@ -132,7 +132,7 @@
                             <span class="course-duration"><i class="far fa-file-alt"></i>82 Lessons</span>
                         </div> -->
 
-                        <h4><a href="https://oke.io/BmHz4u7">Data Analysis using SQL</a></h4>
+                        <h4><a href="https://oke.io/BmHz4u7" target="_blank">Data Analysis using SQL</a></h4>
                         <!-- <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quis, alias.</p> -->
                     </div>
                 </div>

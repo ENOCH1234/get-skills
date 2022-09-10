@@ -24,9 +24,13 @@
     <link rel="stylesheet" href="assets/vendors/owl/assets/owl.carousel.min.css">
     <link rel="stylesheet" href="assets/vendors/owl/assets/owl.theme.default.min.css">
 
+    <script src="https://code.jquery.com/jquery-3.6.1.js" integrity="sha256-3zlB5s2uwoUzrXK3BT7AX3FyvojsraNFxCc2vC/7pNI=" crossorigin="anonymous"></script>
+
     <!-- Main Stylesheet -->
     <link rel="stylesheet" href="assets/css/style.css">
     <link rel="stylesheet" href="assets/css/responsive.css">
+
+    <link rel="stylesheet" href="assets/css/video-style.css">
 
     <!-- Begin Mailchimp Signup Form -->
     <link href="//cdn-images.mailchimp.com/embedcode/classic-071822.css" rel="stylesheet" type="text/css">
@@ -162,38 +166,49 @@
                 <div class="col-xl-6 col-lg-6">
                     <div class="video-block">
                         <img src="assets/images/bg/about.jpg" alt="" class="img-fluid">
-                        <a href="#" class="video-icon"><i class="fa fa-play"></i></a>
+                        <a href="javascript:playVideo()" onclick="playVideo()" class="btn-video video-icon"><i class="fa fa-play"></i></a>
+                        <!-- Play video -->
+                        <!-- <div class="btn-video">
+                            <div class="play"></div>
+                            <p>Play Video</p>
+                        </div> -->
                     </div>
                 </div>
 
                 <div class="col-xl-6 pl-5 col-lg-6">
                     <div class="section-heading mt-4 mt-lg-0 ">
-                        <span class="subheading">Self Development Course</span>
-                        <h3>Get Instant Access To <span> Expert solution</span></h3>
-                        <p>The ultimate planning solution for busy women who want to reach their personal goals.Effortless comfortable eye-catching unique detail </p>
+                        <span class="subheading">Learn More, Earn More!</span>
+                        <h3>Get Instant Access To <span> Cheap Courses</span></h3>
+                        <p>SmartSkilz is for people ready to step to the next level in their careers and gain financial freedom. We do this by providing access to cheap courses</p>
 
                     </div>
                     <ul class="about-features">
                         <li>
                             <i class="fa fa-check"></i>
-                            <h5>High Quality Video Details</h5>
+                            <h5>High Quality Training</h5>
                         </li>
                         <li>
                             <i class="fa fa-check"></i>
-                            <h5>Powerful Audiance</h5>
+                            <h5>Sound Teachers</h5>
                         </li>
                         <li>
                             <i class="fa fa-check"></i>
-                            <h5>Premium Content Worldwide</h5>
+                            <h5>Lifetime Support</h5>
                         </li>
                     </ul>
 
-                    <a href="#" class="btn btn-main">Our Courses</a>
+                    <a href="courses" class="btn btn-main">View Courses</a>
                 </div>
             </div>
         </div>
     </section>
     <!-- About Section END -->
+
+    <!-- Video -->
+    <div class="clip">
+        <video src="assets/video/intro.mp4" controls="true"></video>
+        <b class="close">Close</b>
+    </div>
 
 
     <!-- Counter Section start -->
@@ -254,6 +269,26 @@
         var $mcj = jQuery.noConflict(true);
     </script>
     <!--End mc_embed_signup-->
+
+    <!-- Video -->
+    <script type="text/javascript">
+        let btn = document.querySelector(".btn-video");
+        let clip = document.querySelector(".clip");
+        let video = document.querySelector("video");
+        let close = document.querySelector(".close");
+        btn.onclick = function() {
+            btn.classList.add("active");
+            clip.classList.add("active");
+            video.currentTime = 0;
+            video.play();
+        }
+        close.onclick = function() {
+            btn.classList.remove("active");
+            clip.classList.remove("active");
+            video.pause();
+        }
+    </script>
+
     <!-- Counterup -->
     <script src="assets/vendors/counterup/waypoint.js"></script>
     <script src="assets/vendors/counterup/jquery.counterup.min.js"></script>
