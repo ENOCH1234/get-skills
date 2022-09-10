@@ -4,7 +4,7 @@
         <nav class="navbar navbar-expand-lg">
             <div class="container">
                 <a class="navbar-brand" href="index.html">
-                    <img src="assets/images/SmartSkilz Logo Dark.png" alt="Eduhash" class="img-fluid">
+                    <img src="assets/images/SmartSkilz Logo Dark.png" alt="SmartSkilz" class="img-fluid">
                 </a>
 
                 <!-- Toggler -->
