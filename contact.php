@@ -76,7 +76,7 @@
                 <div class="col-lg-7 col-xl-7">
                     <div class="section-heading center-heading">
                         <span class="subheading">contact</span>
-                        <h3>For more information about our courses, get in touch</h3>
+                        <h3>For more information about cheap courses, get in touch</h3>
                     </div>
                 </div>
             </div>
@@ -87,22 +87,22 @@
                         <div class="col-lg-12 col-md-6">
                             <div class="contact-item">
                                 <p>Email Us</p>
-                                <h4>support@email.com</h4>
+                                <h4>info@smartskilz.com</h4>
                             </div>
                         </div>
                         <div class="col-lg-12 col-md-6">
                             <div class="contact-item">
                                 <p>Make a Call</p>
-                                <h4>+45 234 345467</h4>
+                                <h4>+234 807 4303 908</h4>
                             </div>
                         </div>
-                        <div class="col-lg-12 col-md-6">
+                        <!-- <div class="col-lg-12 col-md-6">
                             <div class="contact-item">
                                 <p>Corporate Office</p>
                                 <h4>Moon Street Light Avenue, 14/05
                                     Jupiter, JP 80630 </h4>
                             </div>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
                 <div class="col-lg-8">
