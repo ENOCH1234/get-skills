@@ -41,10 +41,10 @@
             <div class="row align-items-center">
                 <div class="col-md-12 col-xl-6 col-lg-6">
                     <div class="banner-content">
-                        <span class="subheading">Expert instruction</span>
-                        <h1>Convenient easy way of learning new skills!</h1>
-                        <p>The ultimate planning solution for busy women who want to reach their personal goals.Effortless comfortable eye-catching unique detail </p>
-                        <a href="#" class="btn btn-main">our Courses </a>
+                        <span class="subheading">Upgrade your skills</span>
+                        <h1>Get access to cheap digital courses for free!</h1>
+                        <p>SmartSkilz is for people ready to step to the next level in their careers and gain financial freedom. We do this by providing access to cheap courses</p>
+                        <a href="courses" class="btn btn-main">Check Courses </a>
                     </div>
                 </div>
 
@@ -70,8 +70,8 @@
                             <i class="flaticon-flag"></i>
                         </div>
                         <div class="feature-text">
-                            <h4>Expert Teacher</h4>
-                            <p>Develop skills for career of various majors including computer</p>
+                            <h4>Expert Teachers</h4>
+                            <p>Professional tutors with lots of experience and expertise</p>
                         </div>
                     </div>
                 </div>
@@ -82,7 +82,7 @@
                         </div>
                         <div class="feature-text">
                             <h4>Self Development</h4>
-                            <p>Develop skills for career of various majors including computer.</p>
+                            <p>Develop skills for career of various majors including digital marketing</p>
                         </div>
                     </div>
                 </div>

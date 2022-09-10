@@ -67,8 +67,8 @@
                             <i class="flaticon-flag"></i>
                         </div>
                         <div class="feature-text">
-                            <h4>Expert Teacher</h4>
-                            <p>Develop skills for career of various majors including computer</p>
+                            <h4>Expert Teachers</h4>
+                            <p>Professional tutors with lots of experience and expertise</p>
                         </div>
                     </div>
                 </div>
@@ -79,7 +79,7 @@
                         </div>
                         <div class="feature-text">
                             <h4>Self Development</h4>
-                            <p>Develop skills for career of various majors including computer.</p>
+                            <p>Develop skills for career of various majors including digital marketing</p>
                         </div>
                     </div>
                 </div>
@@ -90,7 +90,7 @@
                         </div>
                         <div class="feature-text">
                             <h4>Remote Learning</h4>
-                            <p>Develop skills for career of various majors including language</p>
+                            <p>No physical location. You get to learn from the comfort of your home</p>
                         </div>
                     </div>
                 </div>
@@ -101,7 +101,7 @@
                         </div>
                         <div class="feature-text">
                             <h4>Life Time Support</h4>
-                            <p>Develop skills for career of various majors including language </p>
+                            <p>We always got your back! There is lifetime support from tutors</p>
                         </div>
                     </div>
                 </div>
