@@ -22,11 +22,25 @@
     <link rel="stylesheet" href="assets/vendors/animate-css/animate.css">
     <link rel="stylesheet" href="assets/vendors/owl/assets/owl.carousel.min.css">
     <link rel="stylesheet" href="assets/vendors/owl/assets/owl.theme.default.min.css">
+    <script src="https://kit.fontawesome.com/2cff1e91af.js" crossorigin="anonymous"></script>
 
     <!-- Main Stylesheet -->
     <link rel="stylesheet" href="assets/css/style.css">
     <link rel="stylesheet" href="assets/css/responsive.css">
 
+    <!-- Begin Mailchimp Signup Form -->
+    <link href="//cdn-images.mailchimp.com/embedcode/classic-071822.css" rel="stylesheet" type="text/css">
+    <style type="text/css">
+        #mc_embed_signup {
+            background: #fff;
+            clear: left;
+            font: 14px Helvetica, Arial, sans-serif;
+            width: 600px;
+        }
+
+        /* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
+	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+    </style>
 </head>
 
 <body id="top-header">
@@ -93,7 +107,7 @@
                         </div>
                         <div class="feature-text">
                             <h4>Remote Learning</h4>
-                            <p>Develop skills for career of various majors including language</p>
+                            <p>No physical location. You get to learn from the comfort of your home</p>
                         </div>
                     </div>
                 </div>
@@ -107,40 +121,18 @@
                 <div class="col-lg-8 col-xl-8 col-md-8">
                     <div class="section-heading mb-sm-0">
                         <span class="subheading">Trending Courses</span>
-                        <h3>Popular Online Courses Around You</h3>
-                        <p>The ultimate planning solution for busy women who want to reach their personal goals</p>
+                        <h3>Great Online Courses For You</h3>
+                        <p>The ultimate digital skill solution for people who want to reach their personal goals</p>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-4  col-md-4">
                     <div class="text-md-right mb-5 mb-md-0">
-                        <a href="#" class="btn btn-main">All courses</a>
+                        <a href="courses" class="btn btn-main">All courses</a>
                     </div>
                 </div>
             </div>
 
             <div class="row">
-                <div class="col-lg-6 col-md-12">
-                    <div class="course-block course-list-item">
-                        <div class="row align-items-center">
-                            <div class="col-lg-4 col-sm-4 ">
-                                <div class="course-img mb-4 mb-md-0">
-                                    <img src="assets/images/course/course-sm1.jpg" alt="" class="img-fluid">
-                                </div>
-                            </div>
-                            <div class="col-lg-8  col-sm-8">
-                                <div class="course-content">
-                                    <div class="course-price ">$50 <del>$90</del></div>
-                                    <h4><a href="#">Information About UI/UX Design Degree</a></h4>
-                                    <div class="course-meta">
-                                        <span class="course-author">By <a href="#">William</a></span>
-                                        <span class="course-duration"><i class="far fa-file-alt"></i>82 Lessons</span>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
                 <div class="col-lg-6 col-md-12">
                     <div class="course-block course-list-item">
                         <div class="row align-items-center">
@@ -151,13 +143,35 @@
                             </div>
                             <div class="col-lg-8  col-sm-8">
                                 <div class="course-content">
-                                    <div class="course-price ">$80 <del>$100</del></div>
+                                    <!-- <div class="course-price ">$80 <del>$100</del></div> -->
 
-                                    <h4><a href="#">Photography Crash Course for Photographer</a></h4>
-                                    <div class="course-meta">
+                                    <h4><a href="https://oke.io/Fa87eop" target="_blank">Make $100 - $500 Daily From CPA Marketing</a></h4>
+                                    <!-- <div class="course-meta">
                                         <span class="course-author">By <a href="#">William</a></span>
                                         <span class="course-duration"><i class="far fa-file-alt"></i>82 Lessons</span>
-                                    </div>
+                                    </div> -->
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-6 col-md-12">
+                    <div class="course-block course-list-item">
+                        <div class="row align-items-center">
+                            <div class="col-lg-4 col-sm-4 ">
+                                <div class="course-img mb-4 mb-md-0">
+                                    <img src="assets/images/course/course-sm1.jpg" alt="" class="img-fluid">
+                                </div>
+                            </div>
+                            <div class="col-lg-8  col-sm-8">
+                                <div class="course-content">
+                                    <!-- <div class="course-price ">$50 <del>$90</del></div> -->
+                                    <h4><a href="https://oke.io/M127M" target="_blank">Graphic Design Masterclass</a></h4>
+                                    <!-- <div class="course-meta">
+                                        <span class="course-author">By <a href="#">William</a></span>
+                                        <span class="course-duration"><i class="far fa-file-alt"></i>82 Lessons</span>
+                                    </div> -->
                                 </div>
                             </div>
                         </div>
@@ -172,15 +186,15 @@
                                     <img src="assets/images/course/course-sm3.jpg" alt="" class="img-fluid">
                                 </div>
                             </div>
-                            <div class="col-lg-8  col-sm-8">
+                            <div class="col-lg-8 col-sm-8">
                                 <div class="course-content">
-                                    <div class="course-price ">$100 <del>$120</del></div>
+                                    <!-- <div class="course-price ">$100 <del>$120</del></div> -->
 
-                                    <h4><a href="#">React – The Complete Guide (React Router)</a></h4>
-                                    <div class="course-meta">
+                                    <h4><a href="https://oke.io/BmHz4u7" target="_blank">Data Analysis using SQL</a></h4>
+                                    <!-- <div class="course-meta">
                                         <span class="course-author">By <a href="#">William</a></span>
                                         <span class="course-duration"><i class="far fa-file-alt"></i>82 Lessons</span>
-                                    </div>
+                                    </div> -->
                                 </div>
                             </div>
                         </div>
@@ -196,15 +210,15 @@
                                     <img src="assets/images/course/course-sm4.jpg" alt="" class="img-fluid">
                                 </div>
                             </div>
-                            <div class="col-lg-8  col-sm-8">
+                            <div class="col-lg-8 col-sm-8">
                                 <div class="course-content">
-                                    <div class="course-price ">$180 <del>$190</del></div>
+                                    <!-- <div class="course-price ">$180 <del>$190</del></div> -->
 
-                                    <h4><a href="#">WebCrash Course for Photographer</a></h4>
-                                    <div class="course-meta">
+                                    <h4><a href="https://oke.io/b04jTbv" target="_blank">Upwork Mastermind for Smartphone Users</a></h4>
+                                    <!-- <div class="course-meta">
                                         <span class="course-author">By <a href="#">William</a></span>
                                         <span class="course-duration"><i class="far fa-file-alt"></i>82 Lessons</span>
-                                    </div>
+                                    </div> -->
                                 </div>
                             </div>
                         </div>
@@ -215,7 +229,7 @@
             <div class="row justify-content-center">
                 <div class="col-xl-6">
                     <div class="text-center mt-5">
-                        Take the control of their life back and start doing things to make their dream come true. <a href="course.html" class="font-weight-bold text-underline">View all courses </a>
+                        Take the control of your life back and start doing things to make your dream come true. <a href="courses" class="font-weight-bold text-underline">View all courses </a>
                     </div>
                 </div>
             </div>
@@ -249,10 +263,10 @@
 
                 <div class="col-xl-6 col-lg-6">
                     <div class="section-heading pl-lg-5 ">
-                        <span class="subheading">Self Development Course</span>
-                        <h3>Get Instant Access To <span> Expert solution</span></h3>
-                        <p class="mb-4">The ultimate planning solution for busy women who want to reach their personal goals.Effortless comfortable eye-catching unique detail.Take the control of their life back and start doing things </p>
-                        <a href="#" class="btn btn-solid-border">Join Now</a>
+                        <span class="subheading">Cheap Digital Courses</span>
+                        <h3>It Is Time To Join <span> The SmartSkilz Hub</span></h3>
+                        <p class="mb-4">Join our WhatsApp group to gain access to information when new courses are available. We're sure you don't want to loose out on the amazing opportunities that lie ahead!</p>
+                        <a href="https://bit.ly/SmartSkilz-Hub" class="btn btn-solid-border" target="_blank"><i class="fa fa-whatsapp" style="font-size: 16px; font-weight:bold;"></i>&nbsp; Join Now</a>
                     </div>
                 </div>
             </div>
@@ -261,81 +275,7 @@
     <!-- About Section End -->
 
     <!--course category section start-->
-    <section class="section-padding course-category">
-        <div class="container">
-            <div class="row align-items-center justify-content-center">
-                <div class="col-lg-7">
-                    <div class="section-heading center-heading">
-                        <span class="subheading">Top Categories</span>
-                        <h3>Explore by category</h3>
-                        <p>The ultimate planning solution for busy women who want to reach their personal goals</p>
-                    </div>
-                </div>
-            </div>
-
-            <div class="row">
-                <div class="col-xl-3 col-lg-3 col-md-6">
-                    <div class="single-course-category cat-1">
-                        <h4><a href="#">Business </a> </h4>
-                        <p>21 courses</p>
-                    </div>
-                </div>
-                <div class="col-xl-3 col-lg-3 col-md-6">
-                    <div class="single-course-category cat-2">
-                        <h4><a href="#">Design</a></h4>
-                        <p>15 courses</p>
-                    </div>
-                </div>
-                <div class="col-xl-3 col-lg-3 col-md-6">
-                    <div class="single-course-category cat-3">
-                        <h4><a href="#">Web Development</a></h4>
-                        <p>12 courses</p>
-                    </div>
-                </div>
-                <div class="col-xl-3 col-lg-3 col-md-6">
-                    <div class="single-course-category cat-4">
-                        <h4><a href="#">Marketing</a></h4>
-                        <p>20 courses</p>
-                    </div>
-                </div>
-
-
-                <div class="col-xl-3 col-lg-3 col-md-6">
-                    <div class="single-course-category cat-2">
-                        <h4><a href="#">Management</a></h4>
-                        <p>15 courses</p>
-                    </div>
-                </div>
-                <div class="col-xl-3 col-lg-3 col-md-6">
-                    <div class="single-course-category cat-1">
-                        <h4><a href="#">App Development</a></h4>
-                        <p>21 courses</p>
-                    </div>
-                </div>
-
-                <div class="col-xl-3 col-lg-3 col-md-6">
-                    <div class="single-course-category cat-4">
-                        <h4><a href="#">SEO</a></h4>
-                        <p>20 courses</p>
-                    </div>
-                </div>
-                <div class="col-xl-3 col-lg-3 col-md-6">
-                    <div class="single-course-category cat-3">
-                        <h4><a href="#">Human Resource</a></h4>
-                        <p>12 courses</p>
-                    </div>
-                </div>
-            </div>
-
-            <div class="row">
-                <div class="col-xl-12">
-                    <div class="text-center mt-5">
-                        <a href="#" class="btn btn-solid-border">Explore All</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
+    <!-- <?php include('apart/course-cat.php'); ?> -->
     <!--course section end-->
 
     <!--course section start-->
@@ -343,7 +283,7 @@
     <!--course section end-->
 
     <!-- Testimonial section start -->
-    <?php include('apart/testimonials.php'); ?>
+    <!-- <?php include('apart/testimonials.php'); ?> -->
     <!-- Testimonial section End -->
 
     <!-- Counter Section start -->
@@ -374,6 +314,29 @@
     <script src="assets/vendors/jquery/jquery.js"></script>
     <!-- Bootstrap 4.5 -->
     <script src="assets/vendors/bootstrap/bootstrap.js"></script>
+    <!-- Mailchimp -->
+    <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script>
+    <script type='text/javascript'>
+        (function($) {
+            window.fnames = new Array();
+            window.ftypes = new Array();
+            fnames[0] = 'EMAIL';
+            ftypes[0] = 'email';
+            fnames[1] = 'FNAME';
+            ftypes[1] = 'text';
+            fnames[2] = 'LNAME';
+            ftypes[2] = 'text';
+            fnames[3] = 'ADDRESS';
+            ftypes[3] = 'address';
+            fnames[4] = 'PHONE';
+            ftypes[4] = 'phone';
+            fnames[5] = 'BIRTHDAY';
+            ftypes[5] = 'birthday';
+        }(jQuery));
+        var $mcj = jQuery.noConflict(true);
+    </script>
+    <!--End mc_embed_signup-->
+
     <!-- Counterup -->
     <script src="assets/vendors/counterup/waypoint.js"></script>
     <script src="assets/vendors/counterup/jquery.counterup.min.js"></script>

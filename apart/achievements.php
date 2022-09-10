@@ -7,7 +7,7 @@
                         <div class="counter-item text-center">
                             <i class="flaticon-video-camera"></i>
                             <div class="count">
-                                <span class="counter">90</span>
+                                <span class="counter">20</span>
                             </div>
                             <h6>Instructors</h6>
                         </div>
@@ -16,7 +16,7 @@
                         <div class="counter-item text-center">
                             <i class="flaticon-layers"></i>
                             <div class="count">
-                                <span class="counter">1450</span>
+                                <span class="counter">8</span>
                             </div>
                             <h6>Total Courses</h6>
                         </div>
@@ -26,7 +26,7 @@
                         <div class="counter-item text-center">
                             <i class="flaticon-flag"></i>
                             <div class="count">
-                                <span class="counter">5697</span>
+                                <span class="counter">1410</span>
                             </div>
                             <h6>Registered Enrolls</h6>
                         </div>
