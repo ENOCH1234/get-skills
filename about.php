@@ -32,10 +32,41 @@
     <link href="//cdn-images.mailchimp.com/embedcode/classic-071822.css" rel="stylesheet" type="text/css">
     <style type="text/css">
         #mc_embed_signup {
-            background: #fff;
-            clear: left;
+            background: rgba(0, 0, 0, 0);
+            /* clear: left; */
             font: 14px Helvetica, Arial, sans-serif;
-            width: 600px;
+            /* width: 600px; */
+            margin: auto;
+        }
+
+        .btn {
+            font-weight: 700;
+            position: relative;
+            text-transform: uppercase;
+            padding: 13px 30px;
+            border-radius: 5px;
+            font-size: 14px;
+            font-family: "Kumbh Sans", sans-serif;
+            border: 2px solid transparent;
+            -webkit-transform: translateY(0px);
+            transform: translateY(0px);
+            transition: all 0.3s ease-in-out;
+        }
+
+        .btn:focus {
+            box-shadow: none !important;
+        }
+
+        .btn-main-form {
+            background: #20ad96;
+            color: #fff;
+            border-color: #20ad96;
+        }
+
+        .btn-main-form:hover {
+            color: #fff;
+            border-color: #385777;
+            background: #385777;
         }
 
         /* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
