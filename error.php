@@ -3,7 +3,7 @@
 
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <meta name="description" content="Gain Access To Cheap Digital Skills">
+    <meta name="description" content="Gain Access To Cheap Digital Courses">
     <meta name="keywords" content="SmartSkilz,education,affiliate,cheap courses,course,online,learning,caoch,training,tutor">
     <meta name="author" content="theknopee.com">
 
