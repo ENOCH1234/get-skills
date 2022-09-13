@@ -73,7 +73,7 @@
                 </div>
                 <div class="col-xl-6 col-lg-8 col-md-12">
                     <div class="copyright text-lg-right text-center">
-                        <p>© <?php echo date('Y') ?> Copyright SmartSkilz. All rights reserved. Crafted by <a href="https://theknopee.com" target="_blank"><strong>Knopee</strong></a> </p>
+                        <p>© <?php echo date('Y') ?> Copyright SmartSkilz. All rights reserved.</strong></a> </p>
                     </div>
                 </div>
             </div>
