@@ -9,7 +9,7 @@
 
     <link rel="shortcut icon" href="assets/images/smart-favicon.png" type="image/x-icon">
 
-    <title>SmartSkilz - Get Access To Cheap Digital Skills</title>
+    <title>SmartSkilz - Get Access To Cheap Digital Courses</title>
 
     <!-- Mobile Specific Meta-->
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -69,7 +69,7 @@
                 <div class="col-md-12 col-xl-6 col-lg-6">
                     <div class="banner-content">
                         <span class="subheading">Upgrade your skills</span>
-                        <h1>Get access to cheap digital courses for free!</h1>
+                        <h1>Get access to cheap digital courses!</h1>
                         <p>SmartSkilz is for people ready to step to the next level in their careers and gain financial freedom. We do this by providing access to cheap courses</p>
                         <a href="courses" class="btn btn-main">Check Courses </a>
                     </div>
@@ -156,8 +156,6 @@
                             </div>
                             <div class="col-lg-8  col-sm-8">
                                 <div class="course-content">
-                                    <!-- <div class="course-price ">$80 <del>$100</del></div> -->
-
                                     <h4><a href="https://digitstem.com/app/ref/eUFOWXVkRGhQS0pnWWJGd0k5WmlNUT09-MTAyOC0xNg==" target="_blank">Digit101: The Ultimate Money Machine</a></h4>
                                     <!-- <div class="course-meta">
                                         <span class="course-author">By <a href="#">William</a></span>
@@ -204,10 +202,6 @@
                                     <!-- <div class="course-price ">$100 <del>$120</del></div> -->
 
                                     <h4><a href="https://digitstem.com/app/ref/QllKcFl6ci82bWY4WWF2QkFEQVU4Zz09-MTAyOC0xMQ==" target="_blank">Data Analysis using SQL</a></h4>
-                                    <!-- <div class="course-meta">
-                                        <span class="course-author">By <a href="#">William</a></span>
-                                        <span class="course-duration"><i class="far fa-file-alt"></i>82 Lessons</span>
-                                    </div> -->
                                 </div>
                             </div>
                         </div>
@@ -225,13 +219,7 @@
                             </div>
                             <div class="col-lg-8 col-sm-8">
                                 <div class="course-content">
-                                    <!-- <div class="course-price ">$180 <del>$190</del></div> -->
-
                                     <h4><a href="https://digitstem.com/app/ref/VW1Va3ArOXhXSFYxWGdoSVRmYXI4dz09-MTAyOC0yMg==" target="_blank">Upwork Mastermind for Smartphone Users</a></h4>
-                                    <!-- <div class="course-meta">
-                                        <span class="course-author">By <a href="#">William</a></span>
-                                        <span class="course-duration"><i class="far fa-file-alt"></i>82 Lessons</span>
-                                    </div> -->
                                 </div>
                             </div>
                         </div>

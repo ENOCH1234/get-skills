@@ -16,7 +16,7 @@
                         <div class="counter-item text-center">
                             <i class="flaticon-layers"></i>
                             <div class="count">
-                                <span class="counter">8</span>
+                                <span class="counter">19</span>
                             </div>
                             <h6>Total Courses</h6>
                         </div>
