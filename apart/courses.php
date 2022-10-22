@@ -36,7 +36,7 @@
                             <span class="course-label">new</span>
                         </div> -->
 
-                        <h4><a href="https://oke.io/6e8Ro8P" target="_blank">Smartphone Graphics Design Blueprint</a></h4>
+                        <h4><a href="https://digitstem.com/app/ref/WTZWbWhJQVFzV0VZb2VNSFpTcFBmQT09-MTAyOC0yMw==" target="_blank">Smartphone Graphics Design Blueprint</a></h4>
                     </div>
                 </div>
             </div>
@@ -54,7 +54,7 @@
                             <span class="course-duration"><i class="far fa-file-alt"></i>82 Lessons</span>
                         </div> -->
 
-                        <h4><a href="https://oke.io/b04jTbv" target="_blank">Upwork Mastermind for Smartphone Users</a></h4>
+                        <h4><a href="https://digitstem.com/app/ref/VW1Va3ArOXhXSFYxWGdoSVRmYXI4dz09-MTAyOC0yMg==" target="_blank">Upwork Mastermind for Smartphone Users</a></h4>
                         <!-- <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quis, alias.</p> -->
                     </div>
                 </div>
@@ -73,7 +73,7 @@
                             <span class="course-duration"><i class="far fa-file-alt"></i>82 Lessons</span>
                         </div> -->
 
-                        <h4><a href="https://oke.io/M127M" target="_blank">Graphic Design Masterclass Course</a></h4>
+                        <h4><a href="https://digitstem.com/app/ref/L0Z0OWJwN0E1cWUwSER5MFFoek9QUT09-MTAyOC0yMQ==" target="_blank">Graphic Design Masterclass Course</a></h4>
                         <!-- <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quis, alias.</p> -->
                     </div>
                 </div>
@@ -94,7 +94,7 @@
                             <span class="course-label">new</span>
                         </div> -->
 
-                        <h4><a href="https://oke.io/Fa87eop" target="_blank">Make $100 - $500 Daily From CPA Marketing</a></h4>
+                        <h4><a href="https://digitstem.com/app/ref/WUh4QzEwbkRpaThjMGV5STFwd2xHZz09-MTAyOC05" target="_blank">CPA Marketing</a></h4>
                         <!-- <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quis, alias.</p> -->
                     </div>
                 </div>
@@ -113,7 +113,7 @@
                             <span class="course-duration"><i class="far fa-file-alt"></i>82 Lessons</span>
                         </div> -->
 
-                        <h4><a href="https://oke.io/6xca" target="_blank">Passive Income Blueprint with Amazon KDP</a></h4>
+                        <h4><a href="https://digitstem.com/app/ref/QUZqWlU1WU9NTEs2VHVlNks0emNyQT09-MTAyOC0xOQ==" target="_blank">Passive Income Blueprint with Amazon KDP</a></h4>
                         <!-- <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quis, alias.</p> -->
                     </div>
                 </div>
@@ -132,7 +132,7 @@
                             <span class="course-duration"><i class="far fa-file-alt"></i>82 Lessons</span>
                         </div> -->
 
-                        <h4><a href="https://oke.io/BmHz4u7" target="_blank">Data Analysis using SQL</a></h4>
+                        <h4><a href="https://digitstem.com/app/ref/QllKcFl6ci82bWY4WWF2QkFEQVU4Zz09-MTAyOC0xMQ==" target="_blank">Data Analysis using SQL</a></h4>
                         <!-- <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quis, alias.</p> -->
                     </div>
                 </div>
@@ -151,7 +151,7 @@
                             <span class="course-duration"><i class="far fa-file-alt"></i>82 Lessons</span>
                         </div> -->
 
-                        <h4><a href="https://oke.io/s2h2VOBE" target="_blank">Mini Importation Goldmine Masterclass</a></h4>
+                        <h4><a href="https://digitstem.com/app/ref/UWZJUjhOMEIzQU80eHpHaWdFRWE4QT09-MTAyOC0yMA==" target="_blank">Mini Importation Goldmine Masterclass</a></h4>
                         <!-- <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quis, alias.</p> -->
                     </div>
                 </div>
@@ -170,7 +170,7 @@
                             <span class="course-duration"><i class="far fa-file-alt"></i>82 Lessons</span>
                         </div> -->
 
-                        <h4><a href="https://oke.io/Pux6O5tp" target="_blank">Digit101: The Ultimate Money Machine</a></h4>
+                        <h4><a href="https://digitstem.com/app/ref/eUFOWXVkRGhQS0pnWWJGd0k5WmlNUT09-MTAyOC0xNg==" target="_blank">Digit101: The Ultimate Money Machine</a></h4>
                         <!-- <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quis, alias.</p> -->
                     </div>
                 </div>

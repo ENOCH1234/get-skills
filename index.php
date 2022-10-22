@@ -158,7 +158,7 @@
                                 <div class="course-content">
                                     <!-- <div class="course-price ">$80 <del>$100</del></div> -->
 
-                                    <h4><a href="https://oke.io/Fa87eop" target="_blank">Make $100 - $500 Daily From CPA Marketing</a></h4>
+                                    <h4><a href="https://digitstem.com/app/ref/eUFOWXVkRGhQS0pnWWJGd0k5WmlNUT09-MTAyOC0xNg==" target="_blank">Digit101: The Ultimate Money Machine</a></h4>
                                     <!-- <div class="course-meta">
                                         <span class="course-author">By <a href="#">William</a></span>
                                         <span class="course-duration"><i class="far fa-file-alt"></i>82 Lessons</span>

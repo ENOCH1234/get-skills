@@ -4,7 +4,7 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="description" content="Gain Access To Cheap Digital Courses">
-    <meta name="keywords" content="SmartSkilz,education,affiliate,cheap courses,course,online,learning,caoch,training,tutor">
+    <meta name="keywords" content="SmartSkilz,education,affiliate,cheap courses,course,online,learning,coach,training,tutor">
     <meta name="author" content="theknopee.com">
 
     <title>About Us - SmartSkilz</title>
@@ -210,11 +210,9 @@
         <b class="close">Close</b>
     </div>
 
-
     <!-- Counter Section start -->
     <?php include('apart/achievements.php'); ?>
     <!-- Counter Section End -->
-
 
     <!-- Team section start -->
     <!-- <?php include('apart/team.php'); ?> -->
@@ -235,9 +233,6 @@
     <div class="fixed-btm-top">
         <a href="#top-header" class="js-scroll-trigger scroll-to-top"><i class="fa fa-angle-up"></i></a>
     </div>
-
-
-
 
     <!-- 
     Essential Scripts
