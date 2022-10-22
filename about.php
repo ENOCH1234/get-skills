@@ -179,7 +179,7 @@
                     <div class="section-heading mt-4 mt-lg-0 ">
                         <span class="subheading">Learn More, Earn More!</span>
                         <h3>Get Instant Access To <span> Cheap Courses</span></h3>
-                        <p>SmartSkilz is for people ready to step to the next level in their careers and gain financial freedom. We do this by providing access to cheap courses</p>
+                        <p>SmartSkilz is for people ready to step to the next level in their careers and gain financial freedom. We do this by providing access to cheap digital courses.</p>
 
                     </div>
                     <ul class="about-features">
