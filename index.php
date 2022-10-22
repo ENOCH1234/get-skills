@@ -180,7 +180,7 @@
                             <div class="col-lg-8  col-sm-8">
                                 <div class="course-content">
                                     <!-- <div class="course-price ">$50 <del>$90</del></div> -->
-                                    <h4><a href="https://oke.io/M127M" target="_blank">Graphic Design Masterclass</a></h4>
+                                    <h4><a href="https://digitstem.com/app/ref/L0Z0OWJwN0E1cWUwSER5MFFoek9QUT09-MTAyOC0yMQ==" target="_blank">Graphic Design Masterclass</a></h4>
                                     <!-- <div class="course-meta">
                                         <span class="course-author">By <a href="#">William</a></span>
                                         <span class="course-duration"><i class="far fa-file-alt"></i>82 Lessons</span>
@@ -203,7 +203,7 @@
                                 <div class="course-content">
                                     <!-- <div class="course-price ">$100 <del>$120</del></div> -->
 
-                                    <h4><a href="https://oke.io/BmHz4u7" target="_blank">Data Analysis using SQL</a></h4>
+                                    <h4><a href="https://digitstem.com/app/ref/QllKcFl6ci82bWY4WWF2QkFEQVU4Zz09-MTAyOC0xMQ==" target="_blank">Data Analysis using SQL</a></h4>
                                     <!-- <div class="course-meta">
                                         <span class="course-author">By <a href="#">William</a></span>
                                         <span class="course-duration"><i class="far fa-file-alt"></i>82 Lessons</span>
@@ -227,7 +227,7 @@
                                 <div class="course-content">
                                     <!-- <div class="course-price ">$180 <del>$190</del></div> -->
 
-                                    <h4><a href="https://oke.io/b04jTbv" target="_blank">Upwork Mastermind for Smartphone Users</a></h4>
+                                    <h4><a href="https://digitstem.com/app/ref/VW1Va3ArOXhXSFYxWGdoSVRmYXI4dz09-MTAyOC0yMg==" target="_blank">Upwork Mastermind for Smartphone Users</a></h4>
                                     <!-- <div class="course-meta">
                                         <span class="course-author">By <a href="#">William</a></span>
                                         <span class="course-duration"><i class="far fa-file-alt"></i>82 Lessons</span>
