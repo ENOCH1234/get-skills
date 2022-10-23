@@ -276,9 +276,9 @@
     <!-- <?php include('apart/testimonials.php'); ?> -->
     <!-- Testimonial section End -->
 
-    <!-- Counter Section start -->
+    <!-- Testimonials Section start -->
     <?php include('apart/achievements.php'); ?>
-    <!-- Counter Section End -->
+    <!-- Testimonials Section End -->
 
     <!-- Blog Section Start -->
     <!-- <?php include('apart/blog.php'); ?> -->
