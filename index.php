@@ -197,7 +197,6 @@
                     </div>
                 </div>
 
-
                 <div class="col-lg-6 col-md-12">
                     <div class="course-block course-list-item">
                         <div class="row align-items-center">
@@ -276,9 +275,9 @@
     <!-- <?php include('apart/testimonials.php'); ?> -->
     <!-- Testimonial section End -->
 
-    <!-- Testimonials Section start -->
+    <!-- Achievements Section start -->
     <?php include('apart/achievements.php'); ?>
-    <!-- Testimonials Section End -->
+    <!-- Achievements Section End -->
 
     <!-- Blog Section Start -->
     <!-- <?php include('apart/blog.php'); ?> -->

@@ -67,9 +67,6 @@
         <a href="#top-header" class="js-scroll-trigger scroll-to-top"><i class="fa fa-angle-up"></i></a>
     </div>
 
-
-
-
     <!-- 
     Essential Scripts
     =====================================-->
