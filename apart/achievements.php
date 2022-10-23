@@ -26,7 +26,7 @@
                         <div class="counter-item text-center">
                             <i class="flaticon-flag"></i>
                             <div class="count">
-                                <span class="counter">1410</span>
+                                <span class="counter">4100</span>+
                             </div>
                             <h6>Registered Enrolls</h6>
                         </div>
