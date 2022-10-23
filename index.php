@@ -151,16 +151,12 @@
                         <div class="row align-items-center">
                             <div class="col-lg-4 col-sm-4">
                                 <div class="course-img mb-4 mb-md-0">
-                                    <img src="assets/images/course/course-sm2.jpg" alt="" class="img-fluid">
+                                    <img src="assets/images/course/c7-sm.png" alt="" class="img-fluid">
                                 </div>
                             </div>
                             <div class="col-lg-8  col-sm-8">
                                 <div class="course-content">
-                                    <h4><a href="https://digitstem.com/app/ref/eUFOWXVkRGhQS0pnWWJGd0k5WmlNUT09-MTAyOC0xNg==" target="_blank">Digit101: The Ultimate Money Machine</a></h4>
-                                    <!-- <div class="course-meta">
-                                        <span class="course-author">By <a href="#">William</a></span>
-                                        <span class="course-duration"><i class="far fa-file-alt"></i>82 Lessons</span>
-                                    </div> -->
+                                    <h4><a href="https://digitstem.com/app/ref/eUFOWXVkRGhQS0pnWWJGd0k5WmlNUT09-MTAyOC0xNg==" target="_blank">Digit101: Affiliate Marketing</a></h4>
                                 </div>
                             </div>
                         </div>
@@ -177,12 +173,7 @@
                             </div>
                             <div class="col-lg-8  col-sm-8">
                                 <div class="course-content">
-                                    <!-- <div class="course-price ">$50 <del>$90</del></div> -->
                                     <h4><a href="https://digitstem.com/app/ref/L0Z0OWJwN0E1cWUwSER5MFFoek9QUT09-MTAyOC0yMQ==" target="_blank">Graphic Design Masterclass</a></h4>
-                                    <!-- <div class="course-meta">
-                                        <span class="course-author">By <a href="#">William</a></span>
-                                        <span class="course-duration"><i class="far fa-file-alt"></i>82 Lessons</span>
-                                    </div> -->
                                 </div>
                             </div>
                         </div>
@@ -199,8 +190,6 @@
                             </div>
                             <div class="col-lg-8 col-sm-8">
                                 <div class="course-content">
-                                    <!-- <div class="course-price ">$100 <del>$120</del></div> -->
-
                                     <h4><a href="https://digitstem.com/app/ref/QllKcFl6ci82bWY4WWF2QkFEQVU4Zz09-MTAyOC0xMQ==" target="_blank">Data Analysis using SQL</a></h4>
                                 </div>
                             </div>
