@@ -22,6 +22,18 @@
         </div>
 
         <div class="row course-gallery ">
+            <div class="course-item cat4 col-lg-4 col-md-6">
+                <div class="course-block">
+                    <div class="course-img">
+                        <img src="assets/images/course/c7.png" alt="" class="img-fluid">
+                    </div>
+                    <div class="course-content">
+                        <h4><a href="https://digitstem.com/app/ref/eUFOWXVkRGhQS0pnWWJGd0k5WmlNUT09-MTAyOC0xNg==" target="_blank">Digit101: Affiliate Marketing</a></h4>
+                    </div>
+                </div>
+            </div>
+
+
             <div class="course-item cat1 col-lg-4 col-md-6">
                 <div class="course-block">
                     <div class="course-img">
@@ -55,17 +67,6 @@
                 </div>
             </div>
 
-            <div class="course-item cat4 col-lg-4 col-md-6">
-                <div class="course-block">
-                    <div class="course-img">
-                        <img src="assets/images/course/course-2.jpg" alt="" class="img-fluid">
-                    </div>
-                    <div class="course-content">
-                        <h4><a href="https://digitstem.com/app/ref/WUh4QzEwbkRpaThjMGV5STFwd2xHZz09-MTAyOC05" target="_blank">CPA Marketing</a></h4>
-                    </div>
-                </div>
-            </div>
-
             <div class="course-item cat3 col-lg-4 col-md-6">
                 <div class="course-block">
                     <div class="course-img">
@@ -77,17 +78,6 @@
                 </div>
             </div>
 
-            <div class="course-item cat2 col-lg-4 col-md-6">
-                <div class="course-block">
-                    <div class="course-img">
-                        <img src="assets/images/course/c4.png" alt="" class="img-fluid">
-                    </div>
-                    <div class="course-content">
-                        <h4><a href="https://digitstem.com/app/ref/QllKcFl6ci82bWY4WWF2QkFEQVU4Zz09-MTAyOC0xMQ==" target="_blank">Data Analysis using SQL</a></h4>
-                    </div>
-                </div>
-            </div>
-
             <div class="course-item cat5 col-lg-4 col-md-6">
                 <div class="course-block">
                     <div class="course-img">
@@ -95,17 +85,6 @@
                     </div>
                     <div class="course-content">
                         <h4><a href="https://digitstem.com/app/ref/UWZJUjhOMEIzQU80eHpHaWdFRWE4QT09-MTAyOC0yMA==" target="_blank">Mini Importation Goldmine Masterclass</a></h4>
-                    </div>
-                </div>
-            </div>
-
-            <div class="course-item cat4 col-lg-4 col-md-6">
-                <div class="course-block">
-                    <div class="course-img">
-                        <img src="assets/images/course/c7.png" alt="" class="img-fluid">
-                    </div>
-                    <div class="course-content">
-                        <h4><a href="https://digitstem.com/app/ref/eUFOWXVkRGhQS0pnWWJGd0k5WmlNUT09-MTAyOC0xNg==" target="_blank">Digit101: Affiliate Marketing</a></h4>
                     </div>
                 </div>
             </div>
@@ -176,28 +155,6 @@
                 </div>
             </div>
 
-            <div class="course-item cat5 col-lg-4 col-md-6">
-                <div class="course-block">
-                    <div class="course-img">
-                        <img src="assets/images/course/c12.png" alt="" class="img-fluid">
-                    </div>
-                    <div class="course-content">
-                        <h4><a href="https://digitstem.com/app/ref/aUZMcXQwU0FhR1FERE9aS3ZOalFXQT09-MTAyOC0zNw==" target="_blank">Forex Trading Full Course</a></h4>
-                    </div>
-                </div>
-            </div>
-
-            <div class="course-item cat5 col-lg-4 col-md-6">
-                <div class="course-block">
-                    <div class="course-img">
-                        <img src="assets/images/course/c13.png" alt="" class="img-fluid">
-                    </div>
-                    <div class="course-content">
-                        <h4><a href="https://digitstem.com/app/ref/U29GVFoxaGRnN3ZoTllvS2M0U2NmZz09-MTAyOC0zOQ==" target="_blank">Smartphone Trading 101</a></h4>
-                    </div>
-                </div>
-            </div>
-
             <div class="course-item cat3 col-lg-4 col-md-6">
                 <div class="course-block">
                     <div class="course-img">
@@ -227,6 +184,50 @@
                     </div>
                     <div class="course-content">
                         <h4><a href="https://digitstem.com/app/ref/TVhOOE96RENJMzBsME5lTXBqUVdBQT09-MTAyOC0yOQ==" target="_blank">Amazon KDP Easy Guide for Smartphones</a></h4>
+                    </div>
+                </div>
+            </div>
+
+            <div class="course-item cat4 col-lg-4 col-md-6">
+                <div class="course-block">
+                    <div class="course-img">
+                        <img src="assets/images/course/course-2.jpg" alt="" class="img-fluid">
+                    </div>
+                    <div class="course-content">
+                        <h4><a href="https://digitstem.com/app/ref/WUh4QzEwbkRpaThjMGV5STFwd2xHZz09-MTAyOC05" target="_blank">CPA Marketing</a></h4>
+                    </div>
+                </div>
+            </div>
+
+            <div class="course-item cat5 col-lg-4 col-md-6">
+                <div class="course-block">
+                    <div class="course-img">
+                        <img src="assets/images/course/c13.png" alt="" class="img-fluid">
+                    </div>
+                    <div class="course-content">
+                        <h4><a href="https://digitstem.com/app/ref/U29GVFoxaGRnN3ZoTllvS2M0U2NmZz09-MTAyOC0zOQ==" target="_blank">Smartphone Trading 101</a></h4>
+                    </div>
+                </div>
+            </div>
+
+            <div class="course-item cat5 col-lg-4 col-md-6">
+                <div class="course-block">
+                    <div class="course-img">
+                        <img src="assets/images/course/c12.png" alt="" class="img-fluid">
+                    </div>
+                    <div class="course-content">
+                        <h4><a href="https://digitstem.com/app/ref/aUZMcXQwU0FhR1FERE9aS3ZOalFXQT09-MTAyOC0zNw==" target="_blank">Forex Trading Full Course</a></h4>
+                    </div>
+                </div>
+            </div>
+
+            <div class="course-item cat2 col-lg-4 col-md-6">
+                <div class="course-block">
+                    <div class="course-img">
+                        <img src="assets/images/course/c4.png" alt="" class="img-fluid">
+                    </div>
+                    <div class="course-content">
+                        <h4><a href="https://digitstem.com/app/ref/QllKcFl6ci82bWY4WWF2QkFEQVU4Zz09-MTAyOC0xMQ==" target="_blank">Data Analysis using SQL</a></h4>
                     </div>
                 </div>
             </div>
